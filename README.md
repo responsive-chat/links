@@ -1,2 +1,2 @@
 # php links directory
-http://www.bmulebi.com
+http://georgia.eu.org/links
